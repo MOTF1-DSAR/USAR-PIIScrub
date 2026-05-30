@@ -14,4 +14,4 @@ Cloning:
 7. Once install is complete, navigate to "C:\US-R-PIIScrub\Apps" in Windows File Explorer
 8. Copy or move the items to the Desktop
 
----This Repository is for the sharing of developmental projects. This project is not a finished product. This project is managed as a developmental project by the IT division of the Boone County Fire Protection District/Missouri Task Force 1.---
+---This Repository is for the sharing of developmental projects. This project is not a finished product. This project is managed as a developmental project MOTF1 DSAR.---
